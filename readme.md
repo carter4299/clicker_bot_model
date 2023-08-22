@@ -2,7 +2,7 @@
 
 ## 📂 Python Setup
 
-### 🚫 Recommend creating your own external python install
+### Recommend creating your own external python install
 
 ```bash
     wget https://www.python.org/ftp/python/3.11.4/Python-3.11.4.tgz
