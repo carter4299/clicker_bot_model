@@ -1,0 +1,10 @@
+matplotlib
+pyautogui
+Pillow
+opencv-python
+pyqt5
+tensorflow
+keras
+numpy
+scikit-learn
+loguru
