@@ -17,7 +17,7 @@
 
 1. Clone the repository:
 ```bash
-   git clone https:/carter4299/bot_num_reader
+   git clone https://github.com/carter4299/clicker_bot_model.git
    cd bot_num_reader
 ```
 
